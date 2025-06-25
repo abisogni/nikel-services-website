@@ -16,10 +16,10 @@ const HeroKenBurns = ({ children }) => {
   })
 
   const images = [
-    "/images/interior-01.jpg",
-    "/images/interior-02.jpg", 
-    "/images/interior-03.jpg",
-    "/images/interior-04.jpg"
+    "./images/interior-01.jpg",
+    "./images/interior-02.jpg", 
+    "./images/interior-03.jpg",
+    "./images/interior-04.jpg"
   ]
 
   // Store movement parameters for each image
