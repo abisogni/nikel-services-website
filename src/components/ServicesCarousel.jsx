@@ -13,35 +13,35 @@ const ServicesCarousel = () => {
       title: "Conseil & Gestion de Projet",
       shortDesc: "Accompagnement complet de votre projet de A à Z",
       longDesc: "Expertise professionnelle en gestion de projet, coordination des corps de métier, et conseil technique pour mener à bien tous vos projets de construction et rénovation.",
-      bgImage: "/images/svc-pm.png"
+      bgImage: "./images/svc-pm.png"
     },
     {
       id: 2,
       title: "Carrelage & Plâtrerie",
       shortDesc: "Spécialistes en carrelage et travaux de plâtrerie",
       longDesc: "Installation de carrelage haute qualité, travaux de plâtrerie professionnels, étanchéité et finitions impeccables pour des espaces durables et esthétiques.",
-      bgImage: "/images/svc-tiling.png"
+      bgImage: "./images/svc-tiling.png"
     },
     {
       id: 3,
       title: "Peinture",
       shortDesc: "Finitions impeccables pour vos intérieurs et extérieurs",
       longDesc: "Peinture extérieure et intérieure professionnelle, effets décoratifs, texturage et patine, finitions de haute qualité pour tous types de surfaces.",
-      bgImage: "/images/svc-painting.png"
+      bgImage: "./images/svc-painting.png"
     },
     {
       id: 4,
       title: "Agencement sur Mesure & Rénovation",
       shortDesc: "Solutions personnalisées et rénovations complètes",
       longDesc: "Conception et réalisation d'agencements sur mesure, rénovations complètes, mobilier intégré, optimisation d'espaces pour allier fonctionnalité et esthétisme.",
-      bgImage: "/images/svc-renovation.png"
+      bgImage: "./images/svc-renovation.png"
     },
     {
       id: 5,
       title: "Nettoyage Professionnel",
       shortDesc: "Services de nettoyage pour chantiers et espaces",
       longDesc: "Nettoyage post-chantier, entretien d'espaces professionnels et résidentiels, respect des normes d'hygiène les plus strictes.",  
-      bgImage: "/images/svc-cleaning.png"
+      bgImage: "./images/svc-cleaning.png"
     }
   ]
 
