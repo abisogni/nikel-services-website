@@ -67,7 +67,7 @@ const Home = () => {
             <div className="text-center">
               <div className="w-20 h-20 mx-auto mb-4 flex items-center justify-center">
                 <img 
-                  src="/images/icon-quality.png" 
+                  src="./images/icon-quality.png" 
                   alt="Qualité" 
                   className="w-20 h-20 object-contain drop-shadow-lg"
                 />
@@ -81,7 +81,7 @@ const Home = () => {
             <div className="text-center">
               <div className="w-20 h-20 mx-auto mb-4 flex items-center justify-center">
                 <img 
-                  src="/images/icon-trust.png" 
+                  src="./images/icon-trust.png" 
                   alt="Confiance" 
                   className="w-20 h-20 object-contain drop-shadow-lg"
                 />
@@ -95,7 +95,7 @@ const Home = () => {
             <div className="text-center">
               <div className="w-20 h-20 mx-auto mb-4 flex items-center justify-center">
                 <img 
-                  src="/images/icon-cleanliness.png" 
+                  src="./images/icon-cleanliness.png" 
                   alt="Hygiène" 
                   className="w-20 h-20 object-contain drop-shadow-lg"
                 />
